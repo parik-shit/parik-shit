@@ -4,4 +4,4 @@
 
 Hi, I'm **Parikshit**, a network engineer from India interested in **network security**, **protocol design**, and **applied cryptography**.
 
-Previously at GuestTek building networks for Marriott and Hilton properties; I also built [Dooplicatoor](https://github.com/parik-shit/Dooplicatoor) and [query-routing-RAG](https://github.com/parik-shit/query-routing-RAG).
+Previously at GuestTek building networks for Marriott and Hilton properties.
